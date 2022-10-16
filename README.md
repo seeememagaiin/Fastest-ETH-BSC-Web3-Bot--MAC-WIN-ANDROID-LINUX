@@ -1,4 +1,4 @@
-<h2 align="center">⭐️ Fastest-Pancakeswap-Web3-Bot--MAC-WIN-ANDROID-LINUX 2022-V1 (MAC WINDOWS ANDROID LINUX)⭐️ </h2>
+<h2 align="center">⭐️ ETH-BSC Web3 bot 2022-V1 (MAC WINDOWS ANDROID LINUX)⭐️ </h2>
 <h3 align="center">⭐️ AUTO BUY TOKEN ON LAUNCH AFTER ADD LIQUIDITY ⭐️</h3>
 
 <h3 align="center">⭐️ First SNIPER BOT for MAC & ANDROID & WINDOWS with honeypot detector ⭐️</h3>
